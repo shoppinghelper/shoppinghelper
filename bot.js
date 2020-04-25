@@ -4,7 +4,7 @@ const discord = require('discord.js');
 const client = new discord.Client();
 
 const bot = new Client();
-const token = 'NjY1NjA2NTExOTkyNzY2NDc0.XmQWoQ.4deLkTxxpgJwHhJXSfRG15Pxz0w';
+const token = 'NzAzNzEwMTQwMjU5NjMxMTI1.XqSkNA.mn3MeJr9nxsYKfe-ZkfAAIcJBHY';
 const PREFIX = '!';
 var version = '1.2';
 var servers = {}; 
